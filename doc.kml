@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <name>phillips_66_permian_emission_sources_20240228_mcmeans</name>
+        <Document id="2">
+            <Style id="5">
+                <IconStyle id="6">
+                    <color>ff2769de</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="7">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>24267</name>
+            <Placemark id="4">
+                <name>24267</name>
+                <styleUrl>#5</styleUrl>
+                <ExtendedData>
+                    <Data name="Latitude">
+                        <value>31.50418</value>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>-102.42987</value>
+                    </Data>
+                    <Data name="Emission Rate">
+                        <value>76.0</value>
+                    </Data>
+                    <Data name="Asset Name">
+                        <value>E-18</value>
+                    </Data>
+                    <Data name="ES ID">
+                        <value>24267</value>
+                    </Data>
+                    <Data name="OID">
+                        <value>6476</value>
+                    </Data>
+                    <Data name="Route ID">
+                        <value>60832</value>
+                    </Data>
+                    <Data name="Sub-System Name">
+                        <value>CRA</value>
+                    </Data>
+                    <Data name="System Name">
+                        <value>GOL</value>
+                    </Data>
+                    <Data name="Dot Type C">
+                        <value>TYPE_R</value>
+                    </Data>
+                    <Data name="Nominal Diameter">
+                        <value>6.625</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3">
+                    <coordinates>-102.42987,31.50418,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <GroundOverlay id="20">
+                <name>24267</name>
+                <Icon id="21">
+                    <href>files/p-70783-es-24267-job-3021.jpg</href>
+                </Icon>
+                <LatLonBox>
+                    <north>31.50610576451178</north>
+                    <south>31.50243504948991</south>
+                    <east>-102.42771979172757</east>
+                    <west>-102.43202510462419</west>
+                </LatLonBox>
+            </GroundOverlay>
+        </Document>
+        <Document id="23">
+            <Style id="26">
+                <IconStyle id="27">
+                    <color>ff2769de</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="28">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <name>24286</name>
+            <Placemark id="25">
+                <name>24286</name>
+                <styleUrl>#26</styleUrl>
+                <ExtendedData>
+                    <Data name="Latitude">
+                        <value>31.25514</value>
+                    </Data>
+                    <Data name="Longitude">
+                        <value>-102.76615</value>
+                    </Data>
+                    <Data name="Emission Rate">
+                        <value>51.0</value>
+                    </Data>
+                    <Data name="Asset Name">
+                        <value>IM-4</value>
+                    </Data>
+                    <Data name="ES ID">
+                        <value>24286</value>
+                    </Data>
+                    <Data name="OID">
+                        <value>6509</value>
+                    </Data>
+                    <Data name="Route ID">
+                        <value>55370</value>
+                    </Data>
+                    <Data name="Sub-System Name">
+                        <value>IMP</value>
+                    </Data>
+                    <Data name="System Name">
+                        <value>GOL</value>
+                    </Data>
+                    <Data name="Dot Type C">
+                        <value>TYPE_R</value>
+                    </Data>
+                    <Data name="Nominal Diameter">
+                        <value>6.625</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="24">
+                    <coordinates>-102.76615,31.25514,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <GroundOverlay id="41">
+                <name>24286</name>
+                <Icon id="42">
+                    <href>files/p-70831-es-24286-job-3021.jpg</href>
+                </Icon>
+                <LatLonBox>
+                    <north>31.257071921641046</north>
+                    <south>31.253381619953757</south>
+                    <east>-102.76412030852237</east>
+                    <west>-102.76843713476283</west>
+                </LatLonBox>
+            </GroundOverlay>
+        </Document>
+    </Document>
+</kml>
